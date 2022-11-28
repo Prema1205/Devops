@@ -1,1 +1,3 @@
-# This repository is created to understand basics of version control using git.
+# This repository is created to understand basics of version control using git
+git init # this is used to initialise the respository#
+git status # this is used show the staus of respository, if a file needs ro be staged or commited#
